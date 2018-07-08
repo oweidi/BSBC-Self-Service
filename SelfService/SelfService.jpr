@@ -764,8 +764,8 @@
       </list>
    </hash>
    <hash n="oracle.jdeveloper.model.J2eeSettings">
-      <value n="j2eeWebAppName" v="SamiSelfService"/>
-      <value n="j2eeWebContextRoot" v="SamiSelfService"/>
+      <value n="j2eeWebAppName" v="BSBC-Self-Service"/>
+      <value n="j2eeWebContextRoot" v="BSBC-Self-Service"/>
    </hash>
    <hash n="oracle.jdeveloper.runner.RunConfigurations">
       <hash n="runConfigurationDefinitions">
